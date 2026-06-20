@@ -1,0 +1,53 @@
+# 🐭 运财鼠 .gitignore — 按公司级开发规范
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+*.egg
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment / Secrets
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Dify / Docker
+dify/
+docker-data/
+volumes/
+
+# Temp
+tmp/
+temp/
+*.log
+*.tmp
+
+# Memory index (auto-generated)
+memory/.index/
+
+# Data (runtime generated, not source)
+data/
