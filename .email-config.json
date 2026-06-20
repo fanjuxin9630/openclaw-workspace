@@ -1,0 +1,20 @@
+{
+  "account": "164953949@qq.com",
+  "provider": "qq-mail",
+  "imap": {
+    "host": "imap.qq.com",
+    "port": 993,
+    "ssl": true
+  },
+  "smtp": {
+    "host": "smtp.qq.com",
+    "port": 465,
+    "ssl": true
+  },
+  "alt_account": "fanjunxin1@xinyinheweb.cn",
+  "alt_note": "腾讯企业邮，需管理员授权+客户端专用密码后才可连IMAP，当前暂走QQ邮箱",
+  "forward_to": "fanjunxin1@xinyinheweb.cn",
+  "password_set": true,
+  "verified": true,
+  "verify_time": "2026-06-19T22:55 EDT"
+}
