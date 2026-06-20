@@ -51,3 +51,4 @@ memory/.index/
 
 # Data (runtime generated, not source)
 data/
+.env.local
